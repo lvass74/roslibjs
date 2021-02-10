@@ -6,6 +6,7 @@ var core = module.exports = {
     Message: require('./Message'),
     Param: require('./Param'),
     Service: require('./Service'),
+  Action: require('./Action'),
     ServiceRequest: require('./ServiceRequest'),
     ServiceResponse: require('./ServiceResponse')
 };
